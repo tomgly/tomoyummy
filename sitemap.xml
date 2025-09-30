@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tomoyummy.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://tomoyummy.com/</loc>
+</url>
+<url>
+<loc>https://tomoyummy.com/welcome-to-tomoyummy-ramen-blog.html</loc>
+<lastmod>2025-09-30T18:46:49-04:00</lastmod>
+</url>
+</urlset>
