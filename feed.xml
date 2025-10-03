@@ -3,12 +3,91 @@
     <title>TomoYummy Ramen Guide</title>
     <link href="https://tomoyummy.com/feed.xml" rel="self" />
     <link href="https://tomoyummy.com" />
-    <updated>2025-10-03T02:44:59-04:00</updated>
+    <updated>2025-10-03T03:32:55-04:00</updated>
     <author>
         <name>Tomoya</name>
     </author>
     <id>https://tomoyummy.com</id>
 
+    <entry>
+        <title>Round1 - Beavercreek, Ohio</title>
+        <author>
+            <name>Tomoya</name>
+        </author>
+        <link href="https://tomoyummy.com/round1-beavercreek-ohio.html"/>
+        <id>https://tomoyummy.com/round1-beavercreek-ohio.html</id>
+        <media:content url="https://tomoyummy.com/media/posts/4/myojo-ramen-thumbnail.png" medium="image" />
+            <category term="Tonkotsu"/>
+            <category term="Shio"/>
+            <category term="Ohio"/>
+            <category term="Beavercreek"/>
+
+        <updated>2025-10-03T03:07:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tomoyummy.com/media/posts/4/myojo-ramen-thumbnail.png" alt="" />
+                    Visited: 10/02/2025 Name: Myojo Ramen Type: Shio Tonkotsu Ingredients: Chashu pork, bamboo shoot, nori, naruto, green onion Price: $11.49 Location:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tomoyummy.com/media/posts/4/myojo-ramen-thumbnail.png" class="type:primaryImage" alt="" /></p>
+                <ul style="list-style-type: square;">
+<li><strong>Visited:</strong> 10/02/2025</li>
+<li><strong>Name:</strong> Myojo Ramen</li>
+<li><strong>Type:</strong> Shio Tonkotsu </li>
+<li><strong>Ingredients:</strong> Chashu pork, bamboo shoot, nori, naruto, green onion</li>
+<li><strong>Price:</strong> $11.49</li>
+<li><strong>Location:</strong> 2727 Fairfield Cmns, Beavercreek, OH 45431</li>
+</ul>
+<h2>Ratings</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;"><strong>Category</strong></td>
+<td style="width: 49.9288%;"><strong>Rating</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Price</td>
+<td style="width: 49.9288%;">$</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Taste</td>
+<td style="width: 49.9288%;">★★★☆☆</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Interior</td>
+<td style="width: 49.9288%;">★★★★★</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Uniqueness</td>
+<td style="width: 49.9288%;">★★★☆☆</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;">Overall</td>
+<td style="width: 49.9288%;">★★★☆☆</td>
+</tr>
+</tbody>
+</table>
+<h2>Review</h2>
+<p>The ramen looked cheap at first, but the taste was actually decent. <br>It had a solid tonkotsu flavor with a hint of saltiness. Unfortunately, it seemed like it was defrosted from frozen, so the overall temperature was lukewarm and some noodles were stuck together. <br>At $11, it’s a casual and convenient option if you get a bit hungry after playing at Round1.</p>
+<h2>Google Map</h2>
+<div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3066.824759127025!2d-84.05848032362256!3d39.76604279498473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88409dccde0d6511%3A0x769f044b0ca82a9f!2sRound1%20Bowling%20%26%20Arcade%20The%20Mall%20at%20Fairfield%20Commons!5e0!3m2!1sen!2sus!4v1759476140201!5m2!1sen!2sus" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h2>Photos</h2>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/4/gallery/myojo-ramen.JPG" data-size="5712x4284"><img loading="lazy" src="https://tomoyummy.com/media/posts/4/gallery/myojo-ramen-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Myojo Ramen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/4/gallery/round1-menu.JPG" data-size="5712x4284"><img loading="lazy" src="https://tomoyummy.com/media/posts/4/gallery/round1-menu-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Menu</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/4/gallery/round1-front.JPG" data-size="4032x3024"><img loading="lazy" src="https://tomoyummy.com/media/posts/4/gallery/round1-front-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Front of building</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bushido Ramen - Dayton, Ohio</title>
         <author>
@@ -25,7 +104,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://tomoyummy.com/media/posts/3/bushido-black-thumbnail.png" alt="" />
-                    Visited: 09/26/2025 Name: Bushido Black Type: Tonkotsu Ingredients: Pork Broth, Seasoned Fried Tofu, Seasoned Bamboo Shoots, Bean Sprouts, Black Mushroom,&hellip;
+                    Visited: 09/26/2025 Name: Bushido Black Type: Tonkotsu Ingredients: Seasoned fried tofu, seasoned bamboo shoots, bean sprouts, black mushroom, corn, shredded&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -35,7 +114,7 @@
 <li><strong>Visited:</strong> 09/26/2025  </li>
 <li><strong>Name:</strong> Bushido Black  </li>
 <li><strong>Type:</strong> Tonkotsu  </li>
-<li><strong>Ingredients: </strong>Pork Broth, Seasoned Fried Tofu, Seasoned Bamboo Shoots, Bean Sprouts, Black Mushroom, Corn, Shredded Green Onion, Seasoned Egg, Black Garlic Oil </li>
+<li><strong>Ingredients:</strong> Seasoned fried tofu, seasoned bamboo shoots, bean sprouts, black mushroom, corn, shredded green onion, seasoned egg, black garlic oil </li>
 <li><strong>Price:</strong> $13.98</li>
 <li><strong style="font-size: inherit;">Location:</strong><span style="font-size: inherit;"> 2607 Wilmington Pike, Dayton, OH 45419</span></li>
 </ul>
