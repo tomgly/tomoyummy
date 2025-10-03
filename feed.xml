@@ -3,29 +3,80 @@
     <title>TomoYummy Ramen Guide</title>
     <link href="https://tomoyummy.com/feed.xml" rel="self" />
     <link href="https://tomoyummy.com" />
-    <updated>2025-09-30T19:22:11-04:00</updated>
+    <updated>2025-10-03T02:11:10-04:00</updated>
     <author>
         <name>Tomoya</name>
     </author>
     <id>https://tomoyummy.com</id>
 
     <entry>
-        <title>Test</title>
+        <title>Bushido Ramen - Dayton, Ohio</title>
         <author>
             <name>Tomoya</name>
         </author>
-        <link href="https://tomoyummy.com/test.html"/>
-        <id>https://tomoyummy.com/test.html</id>
+        <link href="https://tomoyummy.com/bushido-ramen-dayton-ohio-2.html"/>
+        <id>https://tomoyummy.com/bushido-ramen-dayton-ohio-2.html</id>
+        <media:content url="https://tomoyummy.com/media/posts/3/bushido-black-thumbnail.png" medium="image" />
+            <category term="Tonkotsu"/>
+            <category term="Ohio"/>
+            <category term="Dayton"/>
 
-        <updated>2025-09-30T19:22:11-04:00</updated>
+        <updated>2025-10-02T19:11:43-04:00</updated>
             <summary>
                 <![CDATA[
-                    test
+                        <img src="https://tomoyummy.com/media/posts/3/bushido-black-thumbnail.png" alt="" />
+                    Visited: 09/26/2025 Name: Bushido Black Type: Tonkotsu Ingredients: Pork Broth, Seasoned Fried Tofu, Seasoned Bamboo Shoots, Bean Sprouts, Black Mushroom,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>test</p>
+                    <p><img src="https://tomoyummy.com/media/posts/3/bushido-black-thumbnail.png" class="type:primaryImage" alt="" /></p>
+                <ul style="list-style-type: square;">
+<li><strong>Visited:</strong> 09/26/2025  </li>
+<li><strong>Name:</strong> Bushido Black  </li>
+<li><strong>Type:</strong> Tonkotsu  </li>
+<li><strong>Ingredients: </strong>Pork Broth, Seasoned Fried Tofu, Seasoned Bamboo Shoots, Bean Sprouts, Black Mushroom, Corn, Shredded Green Onion, Seasoned Egg, Black Garlic Oil </li>
+<li><strong>Price:</strong> $13.98</li>
+<li><strong style="font-size: inherit;">Location:</strong><span style="font-size: inherit;"> 2607 Wilmington Pike, Dayton, OH 45419</span></li>
+</ul>
+<h2>Ratings</h2>
+<table style="border-collapse: collapse; width: 100%; height: 291.375px;" border="1">
+<tbody>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;"><strong>Category</strong></td>
+<td style="width: 49.9288%; height: 48.5625px;"><strong>Rating</strong></td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Price</td>
+<td style="width: 49.9288%; height: 48.5625px;">$$</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Taste</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★☆☆☆</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Interior</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★★☆</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Uniqueness</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★☆☆</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Overall</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★☆☆</td>
+</tr>
+</tbody>
+</table>
+<h2>Review</h2>
+<p>The broth had a tonkotsu flavor but was a bit thin and not served piping hot. The noodles had a chewy texture. There were too many toppings, and I felt that corn didn’t really go well with it. On the positive side, the seasoned egg was flavorful and delicious, and the tofu I ordered instead of Pork Chashu was also well-seasoned and tasty.</p>
+<h2>Google Map</h2>
+<div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.3472841345047!2d-84.1433425!3d39.7093774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884085cbef571a75%3A0xcf94c01cc077afd1!2sBushido%20Ramen!5e0!3m2!1sen!2sus!4v1759445768628!5m2!1sen!2sus" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h2>Photos</h2>
+<figure class="post__image" ><img loading="lazy" src="https://tomoyummy.com/media/posts/3/bushido-black.JPG" alt="Bushido Black" width="5712" height="4284" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tomoyummy.com/media/posts/3/responsive/bushido-black-xs.JPG 384w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-sm.JPG 600w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-md.JPG 768w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-lg.JPG 1200w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-xl.JPG 1600w">
+<figcaption >Bushido Black</figcaption>
+</figure>
+<p> </p>
             ]]>
         </content>
     </entry>
