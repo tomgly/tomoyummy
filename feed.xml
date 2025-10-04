@@ -3,7 +3,7 @@
     <title>TomoYummy Ramen Guide</title>
     <link href="https://tomoyummy.com/feed.xml" rel="self" />
     <link href="https://tomoyummy.com" />
-    <updated>2025-10-03T20:14:11-04:00</updated>
+    <updated>2025-10-04T00:34:12-04:00</updated>
     <author>
         <name>Tomoya</name>
     </author>
@@ -29,7 +29,14 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://tomoyummy.com/media/posts/5/butter-shoyu-ramen-thumbnail.png" class="type:primaryImage" alt="" /></p>
-                <p>Visited: 10/3/2025<br>Name: Butter Shoyu Ramen<br>Type: Shoyu<br>Ingredients: Chashu, tamago, butter, bean sprouts, green onion, bok choy<br>Price: $13<br>Location: 4457 W Franklin St, Bellbrook, OH 45305</p>
+                <ul style="list-style-type: square;">
+<li><strong>Visited:</strong> 10/3/2025</li>
+<li><strong>Name:</strong> Butter Shoyu Ramen</li>
+<li><strong>Type: </strong>Shoyu</li>
+<li><strong>Ingredients:</strong> Chashu, tamago, butter, bean sprouts, green onion, bok choy</li>
+<li><strong>Price: </strong>$13</li>
+<li><strong>Location:</strong> 4457 W Franklin St, Bellbrook, OH 45305</li>
+</ul>
 <h2>Ratings</h2>
 <table style="border-collapse: collapse; width: 100%; height: 291.375px;" border="1">
 <tbody>
