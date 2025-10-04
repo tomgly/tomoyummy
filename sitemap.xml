@@ -5,6 +5,10 @@
 <loc>https://tomoyummy.com/</loc>
 </url>
 <url>
+<loc>https://tomoyummy.com/about/</loc>
+<lastmod>2025-10-04T00:39:47-04:00</lastmod>
+</url>
+<url>
 <loc>https://tomoyummy.com/bushido-black/</loc>
 <lastmod>2025-10-03T20:13:18-04:00</lastmod>
 <image:image>
@@ -71,9 +75,5 @@
 <url>
 <loc>https://tomoyummy.com/privacy-policy/</loc>
 <lastmod>2025-10-03T22:10:09-04:00</lastmod>
-</url>
-<url>
-<loc>https://tomoyummy.com/welcome-to-tomoyummy-ramen-blog/</loc>
-<lastmod>2025-10-04T00:38:14-04:00</lastmod>
 </url>
 </urlset>
