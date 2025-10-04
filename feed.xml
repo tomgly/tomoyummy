@@ -3,12 +3,82 @@
     <title>TomoYummy Ramen Guide</title>
     <link href="https://tomoyummy.com/feed.xml" rel="self" />
     <link href="https://tomoyummy.com" />
-    <updated>2025-10-03T03:32:55-04:00</updated>
+    <updated>2025-10-03T19:49:45-04:00</updated>
     <author>
         <name>Tomoya</name>
     </author>
     <id>https://tomoyummy.com</id>
 
+    <entry>
+        <title>MI RAMEN - Bellbrook, Ohio</title>
+        <author>
+            <name>Tomoya</name>
+        </author>
+        <link href="https://tomoyummy.com/mi-ramen-bellbrook-ohio/"/>
+        <id>https://tomoyummy.com/mi-ramen-bellbrook-ohio/</id>
+        <media:content url="https://tomoyummy.com/media/posts/5/butter-shoyu-ramen-thumbnail.png" medium="image" />
+            <category term=" Shoyu "/>
+
+        <updated>2025-10-03T16:37:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tomoyummy.com/media/posts/5/butter-shoyu-ramen-thumbnail.png" alt="" />
+                    Visited: 10/3/2025 Name: Butter Shoyu Ramen Type: Shoyu Ingredients: Chashu, tamago, butter, bean sprouts, green onion, bok choy Price: $13&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://tomoyummy.com/media/posts/5/butter-shoyu-ramen-thumbnail.png" class="type:primaryImage" alt="" /></p>
+                <p>Visited: 10/3/2025<br>Name: Butter Shoyu Ramen<br>Type: Shoyu <br>Ingredients: Chashu, tamago, butter, bean sprouts, green onion, bok choy<br>Price: $13<br>Location: 4457 W Franklin St, Bellbrook, OH 45305</p>
+<h2>Ratings</h2>
+<table style="border-collapse: collapse; width: 100%; height: 291.375px;" border="1">
+<tbody>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;"><strong>Category</strong></td>
+<td style="width: 49.9288%; height: 48.5625px;"><strong>Rating</strong></td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Price</td>
+<td style="width: 49.9288%; height: 48.5625px;">$$</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Taste</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★★☆</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Interior</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★☆☆</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Uniqueness</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★★☆</td>
+</tr>
+<tr style="height: 48.5625px;">
+<td style="width: 49.9288%; height: 48.5625px;">Overall</td>
+<td style="width: 49.9288%; height: 48.5625px;">★★★★☆</td>
+</tr>
+</tbody>
+</table>
+<h2>Review</h2>
+<p data-start="592" data-end="871">It was good chicken shoyu ramen. The block of butter placed on top was quite memorable. The soup was a chicken-based shoyu broth, but the soy sauce flavor wasn’t too strong. As expected, the soup wasn’t piping hot. The chashu had a nice, savory flavor and was really tasty. <br>This ramen usually costs $14.89, but this month it’s on sale for $13 including a drink, which makes the price and taste pretty good overall. I’d like to come back again to try their other ramen options.</p>
+<h2>Google Map</h2>
+<div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.5581461049396!2d-84.1088659!3d39.6371516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88408f8ebb39ee7f%3A0xfd96cfc79f0354e3!2sMI%20RAMEN!5e0!3m2!1sen!2sus!4v1759534117139!5m2!1sen!2sus" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h2>Photos</h2>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/5/gallery/butter-shoyu-ramen.JPG" data-size="5712x4284"><img loading="lazy" src="https://tomoyummy.com/media/posts/5/gallery/butter-shoyu-ramen-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Butter Shoyu Ramen</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/5/gallery/mi-ramen-front.JPG" data-size="5712x4284"><img loading="lazy" src="https://tomoyummy.com/media/posts/5/gallery/mi-ramen-front-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Front of the store</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/5/gallery/mi-ramen-sale.JPG" data-size="5712x4284"><img loading="lazy" src="https://tomoyummy.com/media/posts/5/gallery/mi-ramen-sale-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figcaption>Special offer</figcaption>
+</figure>
+</div></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Round1 - Beavercreek, Ohio</title>
         <author>
@@ -19,8 +89,6 @@
         <media:content url="https://tomoyummy.com/media/posts/4/myojo-ramen-thumbnail.png" medium="image" />
             <category term="Tonkotsu"/>
             <category term="Shio"/>
-            <category term="Ohio"/>
-            <category term="Beavercreek"/>
 
         <updated>2025-10-03T03:07:58-04:00</updated>
             <summary>
@@ -82,7 +150,7 @@
 <figcaption>Menu</figcaption>
 </figure>
 <figure class="gallery__item"><a href="https://tomoyummy.com/media/posts/4/gallery/round1-front.JPG" data-size="4032x3024"><img loading="lazy" src="https://tomoyummy.com/media/posts/4/gallery/round1-front-thumbnail.JPG" alt="" width="768" height="576"></a>
-<figcaption>Front of building</figcaption>
+<figcaption>Front of the building</figcaption>
 </figure>
 </div></div>
             ]]>
@@ -97,8 +165,6 @@
         <id>https://tomoyummy.com/bushido-ramen-dayton-ohio-2/</id>
         <media:content url="https://tomoyummy.com/media/posts/3/bushido-black-thumbnail.png" medium="image" />
             <category term="Tonkotsu"/>
-            <category term="Ohio"/>
-            <category term="Dayton"/>
 
         <updated>2025-10-02T19:11:43-04:00</updated>
             <summary>
@@ -151,7 +217,7 @@
 <p>The first thing I thought was that there were just too many toppings on the ramen, but the taste was not bad.<br>The broth had a tonkotsu flavor but was a bit thin and not served piping hot. The noodles had a chewy texture. I felt that corn didn’t really go well with it. The seasoned egg was flavorful, and the seasoned fried tofu I ordered instead of pork chashu was also well-seasoned and tasty.<br>The bowl was $14, which seemed like a typical price for ramen in the U.S.<br>The interior was filled with Anime figures and snacks for sale, which gave the place a fun and unique vibe. They offered drinks like Calpico and boba tea, but there was no sake or other Japanese alcoholic beverages.</p>
 <h2>Google Map</h2>
 <div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.3472841345047!2d-84.1433425!3d39.7093774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884085cbef571a75%3A0xcf94c01cc077afd1!2sBushido%20Ramen!5e0!3m2!1sen!2sus!4v1759445768628!5m2!1sen!2sus" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-<h2>Photos</h2>
+<h2>Photo</h2>
 <figure class="post__image" ><img loading="lazy" src="https://tomoyummy.com/media/posts/3/bushido-black.JPG" alt="Bushido Black" width="5712" height="4284" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tomoyummy.com/media/posts/3/responsive/bushido-black-xs.JPG 384w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-sm.JPG 600w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-md.JPG 768w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-lg.JPG 1200w ,https://tomoyummy.com/media/posts/3/responsive/bushido-black-xl.JPG 1600w">
 <figcaption >Bushido Black</figcaption>
 </figure>
