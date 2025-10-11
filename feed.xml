@@ -3,7 +3,7 @@
     <title>TomoYummy Ramen Guide</title>
     <link href="https://tomoyummy.com/feed.xml" rel="self" />
     <link href="https://tomoyummy.com" />
-    <updated>2025-10-11T09:37:38-04:00</updated>
+    <updated>2025-10-11T09:39:35-04:00</updated>
     <author>
         <name>Tomoya</name>
     </author>
@@ -91,8 +91,8 @@
         <author>
             <name>Tomoya</name>
         </author>
-        <link href="https://tomoyummy.com/butter-shoyu-ramen/"/>
-        <id>https://tomoyummy.com/butter-shoyu-ramen/</id>
+        <link href="https://tomoyummy.com/butter-shoyu-ramen-mi-ramen/"/>
+        <id>https://tomoyummy.com/butter-shoyu-ramen-mi-ramen/</id>
         <media:content url="https://tomoyummy.com/media/posts/5/butter-shoyu-ramen-thumbnail.png" medium="image" />
             <category term=" Shoyu "/>
 
@@ -168,8 +168,8 @@
         <author>
             <name>Tomoya</name>
         </author>
-        <link href="https://tomoyummy.com/myojo-ramen/"/>
-        <id>https://tomoyummy.com/myojo-ramen/</id>
+        <link href="https://tomoyummy.com/myojo-ramen-round1/"/>
+        <id>https://tomoyummy.com/myojo-ramen-round1/</id>
         <media:content url="https://tomoyummy.com/media/posts/4/myojo-ramen-thumbnail.png" medium="image" />
             <category term="Tonkotsu"/>
             <category term="Shio"/>
@@ -245,8 +245,8 @@
         <author>
             <name>Tomoya</name>
         </author>
-        <link href="https://tomoyummy.com/bushido-black/"/>
-        <id>https://tomoyummy.com/bushido-black/</id>
+        <link href="https://tomoyummy.com/bushido-black-bushido-ramen/"/>
+        <id>https://tomoyummy.com/bushido-black-bushido-ramen/</id>
         <media:content url="https://tomoyummy.com/media/posts/3/bushido-black-thumbnail.png" medium="image" />
             <category term="Tonkotsu"/>
 
